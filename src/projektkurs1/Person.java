@@ -9,20 +9,6 @@ package projektkurs1;
  *
  * @author Mattias
  */
-public class Projektkurs1 {
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    public static void main(String[] args) {
-
-        System.out.println("test");
-    }
+public class Person {
     
 }
